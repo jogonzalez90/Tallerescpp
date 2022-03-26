@@ -1,2 +1,2 @@
 # Actividad de programacion de computadores
-Este repositorio contiene practica de programacion realizadas en el lenguje C++.
+Este repositorio contiene practicas de programacion realizadas en el lenguje C++.
